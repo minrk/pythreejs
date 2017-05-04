@@ -10,7 +10,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "@jupyterlab/nbwidgets": "^0.18.0",
-    "jupyter-threejs": "^0.3.0-alpha.0"
+    "jupyter-threejs": "^0.3.0-alpha.1"
   },
   "jupyterlab": {
     "extension": true
